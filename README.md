@@ -1,4 +1,4 @@
-# CRUD-Web-App
+# CRUD-Web-App with Python and Flask
 
 In this project, I built a CRUD (Create, Read, Update, Delete) employee management web app using Flask, a microframework for Python. It has the following features:
 
